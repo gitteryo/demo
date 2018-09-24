@@ -1,2 +1,1 @@
-# demo
-demo repo
+this is a read me, it's for my git commands practice!
